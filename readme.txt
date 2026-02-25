@@ -1,0 +1,1 @@
+This is a console based application for calculating stats on the pokemon games. I enjoyed making this because pokemon is the perfect thing for object oriented programming practice.
